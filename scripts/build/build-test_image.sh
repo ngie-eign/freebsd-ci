@@ -48,7 +48,6 @@ sudo chroot ufs env ASSUME_ALWAYS_YES=yes pkg update
 # gdb: local/kyua/utils/stacktrace_test
 # kyua: everything
 # ksh93: tests/sys/cddl/zfs/...
-# py*-dpkt: sys/opencrypto/runtests
 # nist-kat: sys/opencrypto/runtests
 # nmap: sys/netinet/fibs_test:arpresolve_checks_interface_fib
 # perl5: lots of stuff
